@@ -1,4 +1,5 @@
-sati### Hi there 👋
+photo
+### Hi there 👋
 
 <!--
 **Sati250/Sati250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
